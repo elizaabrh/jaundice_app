@@ -1,6 +1,6 @@
 # jaundice_app
 
-A new Flutter project.
+A mobile AI application that detects jaundice risk in newborns using a trained model.
 
 ## Getting Started
 
