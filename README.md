@@ -1,6 +1,6 @@
 # jaundice_app
 
-A mobile AI application that detects jaundice risk in newborns using a trained model.
+A mobile application that detects jaundice risk in newborns using a pretrained AI model.
 
 ## Getting Started
 
